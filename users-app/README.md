@@ -1,2 +1,2 @@
-Run "npm install"
+Run "npm install"b and then
 Run "Ng serve"
